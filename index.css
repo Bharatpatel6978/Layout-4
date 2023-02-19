@@ -1,7 +1,7 @@
 #header-col1
 {
     background-color: #2C2F36;
-    height: 16rem;
+    height: 14rem;
     overflow: hidden;
 }
 #header-div1
@@ -9,7 +9,7 @@
     color: white;
     font-size: 47px;
     font-weight: 400;
-    padding-top: 15%;
+    padding-top: 18%;
     padding-left: 4rem;
 }
 body
@@ -34,7 +34,7 @@ body
 {
     color: #ffffff7d;
     font-size: 20px;
-    padding-left: 22%;
+    padding-left: 28%;
 }
 #header-div2
 {
@@ -50,7 +50,7 @@ body
     font-weight: 700;
     padding-top: 1rem;
     padding-left: 5rem;
-    font-size: 35px;
+    font-size: 31px;
 }
 #header-col2-p1
 {
@@ -70,21 +70,89 @@ body
 }
 #header-col2-p3
 {
-    font-size: 31px;
-    padding-top: 5%;
+    font-size: 26px;
+    padding-top: 6%;
 }
 #header-col2-p2
 {
-    font-size: 37px;
+    font-size: 27px;
     position: absolute;
 }
 #header-col2-p4
 {
-    font-size: 33px;
+    font-size: 28px;
     padding-top: 2%;
 }
 #header-col2-p5
 {
-    font-size: 32px;
+    font-size: 29px;
     padding-top: 2%;
+}
+#mainimg
+{
+    background-image: url('assets/main.jpg');
+    background-size: 100% 100%;
+}
+#mainimg-col1
+{
+    padding-left: 0rem;
+}
+#mainimg-col1-d1
+{
+    height: 99vh;
+    color: #ffffff75;
+    background: #0e658fc2;
+    width: 82vw;
+}
+#mainimg-h1-1
+{
+    text-align: center;
+    font-size: 212px;
+    padding-top: 0rem;
+    padding-left: 2rem;
+    font-weight: 700;
+}
+#mainimg-h1-2
+{
+    font-weight: 700;
+    padding-left: 6rem;
+    padding-top: 4rem;
+    color: white;
+}
+#grad-1
+{
+    background: white;
+    height: 10px;
+    width: 16%;
+    margin-left: 6rem;
+    margin-top: 2rem;
+}
+.mainimg-p1
+{
+    padding-left: 8%;
+    color: white;
+    font-size: 103px;
+    font-weight: 900;
+    margin-top: -15%;
+}
+.mainimg-p2
+{
+    padding-left: 8%;
+    color: white;
+    font-size: 103px;
+    font-weight: 900;
+    margin-top: -3rem;
+}
+#mainimg-p3
+{
+    color: white;
+    font-size: 103px;
+    font-weight: 900;
+    padding-left: 8%;
+    margin-top: -3rem;   
+}
+#mainimg-col2
+{
+    background-color: #e12371b5;
+    height: 14rem;
 }
