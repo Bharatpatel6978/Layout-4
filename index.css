@@ -245,3 +245,151 @@ body
 {
     background: #eeeeee;
 }
+#section4-col1
+{
+    padding-left: 5rem;
+    
+}
+#section4-icon1
+{
+    width: 39%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 0rem;
+}
+#card1-body
+{
+    line-height: 27px;
+    text-align: justify;
+    font-size: 24px;
+    padding-top: 0rem;
+}
+#section4-st1
+{
+    font-weight: 800;
+    color: #2b2b2d;
+    font-size: 41px;
+    
+}
+#section4-sp1
+{
+    color:#ec136d;
+    font-size: 37px;
+}
+#card1-t1
+{
+    margin-bottom: -0.15rem;
+}
+#section4-p1
+{
+    color: #524e4e;
+    font-weight: 500;
+}
+.section4-sp2
+{
+    background: #f30065;
+    height: 8px;
+    width: 28px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+#section4-col2
+{
+   
+    
+}
+#section4-icon2
+{
+    width: 35%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 0rem;
+}
+#card2-body
+{
+    line-height: 27px;
+    text-align: justify;
+    font-size: 26px;
+    padding-top: 0rem;
+}
+#section4-st2
+{
+    font-weight: 800;
+    color: #2b2b2d;
+    font-size: 40px;
+    
+}
+#section4-sp2
+{
+    color:#ec136d;
+    font-size: 36px;
+}
+#card2-t1
+{
+    margin-bottom: -0.15rem;
+}
+#section4-p2
+{
+    color: #524e4e;
+    font-weight: 500;
+}
+.section4-sp4
+{
+    background: #f30065;
+    height: 8px;
+    width: 28px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+#section4-col3
+{
+    padding-left: 0rem;
+    margin-left: -2rem;
+}
+#section4-icon3
+{
+    width: 35%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+#card3-body
+{
+    line-height: 27px;
+    text-align: justify;
+    font-size: 26px;
+    padding-top: 0rem;
+}
+#section4-st3
+{
+    font-weight: 800;
+    color: #2b2b2d;
+    font-size: 41px;
+    
+}
+#section4-sp3
+{
+    color: #ec136d;
+    font-size: 36px;
+
+}
+#card3-t1
+{
+    margin-bottom: -0.15rem;
+}
+#section4-p3
+{
+    color: #524e4e;
+    font-weight: 500;
+}
+.section4-sp5
+{
+    background: #f30065;
+    height: 8px;
+    width: 28px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 1%;
+}
