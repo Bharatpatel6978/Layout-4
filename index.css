@@ -879,3 +879,19 @@ body
         left: 1162px;
     }
 }
+@media screen and (max-width:1366px) {
+    #mainimg-col1-d1 {
+        height: 130vh;
+        color: #ffffff75;
+        background: #0e658fc2;
+        width: 1128px;
+    }
+    #section2-sp1 {
+        background: #eeeeee;
+        height: 3%;
+        position: absolute;
+        width: 226px;
+        margin-top: 10%;
+        left: 1128px;
+    }
+}
