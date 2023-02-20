@@ -2,7 +2,7 @@
 {
     background-color: #2C2F36;
     height: 14rem;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 #header-div1
 {
@@ -99,7 +99,7 @@ body
 }
 #mainimg-col1-d1
 {
-    height: 99vh;
+    height: 110vh;
     color: #ffffff75;
     background: #0e658fc2;
     width: 82vw;
@@ -155,4 +155,93 @@ body
 {
     background-color: #e12371b5;
     height: 14rem;
+}
+.mainimg-sp1
+{
+    background-color: #c40051;
+    height: 2%;
+    width: 1rem;
+    position: absolute;
+    margin-left: 22rem;
+}
+.mainimg-sp2
+{
+    background-color: #c40051;
+    height: 2%;
+    width: 1rem;
+    position: absolute;
+    margin-left: 20rem;
+}
+.mainimg-sp3
+{
+    background-color: #c40051;
+    height: 2%;
+    width: 1rem;
+    position: absolute;
+    margin-left: 24rem;
+}
+#mainimg-sp-d
+{
+    margin-left: 32rem;
+    margin-top: -6%;
+}
+#section2-col1
+{
+    
+    height: 9rem;
+}
+#section2-sp1
+{
+    background: #eeeeee;
+    height: 2%;
+    position: absolute;
+    width: 223px;
+    margin-top: 10%;
+    left: 1120px;
+}
+#sp-1
+{
+    font-size: 43px;
+    font-weight: 900;
+}
+#sp-2
+{
+    font-size: 40px;
+}
+#sp-3
+{
+    font-size: 40px;
+}
+#section-about-col1
+{
+    height: 10rem;
+    line-height: 19px;
+}
+#section3-d1
+{
+    margin-left: 5rem;
+    border-left: 7px solid #c40051;
+    height: 6rem;
+    margin-top: 2rem;
+}
+#section3-d2
+{
+    padding-left: 23%;
+    padding-top: 9%;
+}
+#section3-col2
+{
+    padding-left: 10rem;
+    padding-right: 8rem;
+    padding-top: 2rem;
+}
+#section-p1
+{
+    text-align: justify;
+    font-size: 26px;
+    line-height: 100%;  
+}
+#section3-row
+{
+    background: #eeeeee;
 }
