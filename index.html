@@ -9,6 +9,7 @@
     <link rel="shortcut icon" href="assets/favicon.jpg" type="image/x-icon">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="./Bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//db.onlinewebfonts.com/c/8cdbb48678e4418f22a2f507c2b975bd?family=Blanka">
 </head>
 
 <body>
@@ -94,7 +95,7 @@
 
         <section>
             <div class="container-fluid">
-                <div class="row" style="padding-bottom: 1rem;">
+                <div class="row" style="padding-bottom: 1rem;" id="cards">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4" id="section4-col1">
                         <div class="card" style="width: 24  rem; border: none;">
                             <img class="card-img-top" src="assets/icon1.jpg.png" alt="Card image cap" id="section4-icon1">
@@ -106,10 +107,14 @@
                             </p>
                             </div>
                           </div>
+                          <div id="card2-d1">
+                            <span id="card2-span"></span>
+                        </div>
                     </div>
 
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4" id="section4-col2">
-                        <div class="card" style="width: 24rem; border: none;">
+                        
+                        <div class="card"  id="card2">
                             <img class="card-img-top" src="assets/icon2.jpg" alt="Card image cap" id="section4-icon2">
                             <div class="card-body" id="card2-body">
                               <h5 class="card-title " id="card2-t1"><Strong id="section4-st2">File Management</Strong></h5>
@@ -118,11 +123,14 @@
                                 <span class="section4-sp4"></span> 
                             </p>
                             </div>
-                          </div>
+                        </div>
+                        <div id="card3-d1">
+                            <span id="card3-span"></span>
+                        </div>
                     </div>
 
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4" id="section4-col3">
-                        <div class="card" style="width: 24rem; border: none;">
+                        <div class="card" id="card3">
                             <img class="card-img-top" src="assets/icon-3.jpg" alt="Card image cap" id="section4-icon3">
                             <div class="card-body" id="card3-body">
                               <h5 class="card-title " id="card3-t1"><Strong id="section4-st3">Documentation</Strong></h5>
@@ -137,6 +145,27 @@
             </div>
         </section>
     </main>
+    <footer>
+        <div class="container-fluid">
+            <div class="row" id="footer">
+                <div class="container" style="display: flex;">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3"  id="footer-col1">
+                        <h2 id="footer-h2">HEY DESIGN</h2>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3"  id="footer-col2">
+                        <span id="footer-span1"></span>
+                        <h1 id="footer-h1">UX</h1>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3"  id="footer-col3">
+                        <img src="assets/createch" alt="logo not found" id="footer-img">
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3"  id="footer-col4">
+                        <h1 id="footer-h1-2">A<strong id="footer-st">:</strong>BX</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <script src="./Bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="./Bootstrap/js/bootstrap.min.js"></script>
 </body>
